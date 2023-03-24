@@ -1,0 +1,12 @@
+--[Bronze = Class{}
+
+--function Bronze:init()
+   --self.image= love.graphics.newImage('bronze.jpg')
+    --self.height=self.image:getWidth()-self.image:getWidth()/4
+    --self.width=self.image:getHeight()/4-self.image:getHeight()/4
+    --self.x=VIRTUAL_WIDTH/2-(self.width/2)
+    --self.y=VIRTUAL_HEIGHT/2-(self.height/2)
+--end
+--function Bronze:render()
+    --love.graphics.draw(self.image,self.x,self.y)
+--end
