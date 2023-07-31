@@ -1,5 +1,5 @@
 #NOTE:
-[[This game was built by the CS50G lecturer "COLTON OGDEN" but I have brought some new feature in thea game.Which are given below]]
+[[This game was built by the CS50G lecturer "COLTON OGDEN" but I have brought some new feature in the game.Which are given below]]
 
 Game Name:Flappy Bird
 This game is developed by Colton the lecturer of CS50G course.I have brought some update to the game.Like I have brought the pipe spawned in the random time and random way.Then I have brought medals for the player to gift based on the player's score.
